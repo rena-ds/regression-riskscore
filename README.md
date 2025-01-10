@@ -6,5 +6,5 @@ This project aims to build a regression model using the Financial Risk for Loan 
 ## 🔗Installation
 To run this project, make sure you have Python 3.10.12 installed on your system. Clone this repository to your local system:
 ``` bash
-git clone https://github.com/[rena-ds]/[regression-riskscore].git
-cd [regression-riskscore]
+git clone https://github.com/rena-ds/regression-riskscore.git
+cd regression-riskscore
